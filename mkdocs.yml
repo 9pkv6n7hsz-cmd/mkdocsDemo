@@ -1,0 +1,12 @@
+site_name: My Docs
+# nav:
+#   - Home: index.md
+#   - Tutorial: Tutorial.md
+items:
+- name: Tutorial
+  items:
+  - href: Tutorial.md
+  - href: step-1.md
+  - href: step-2.md
+  - href: step-3.md
+theme: readthedocs
